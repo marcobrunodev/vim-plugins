@@ -9,7 +9,6 @@ List of plugins for Vim.
 * [HTML/HTML5](#htmlhtml5)
 * [CSS/CSS3](#csscss3)
 * [JavaScript](#javascript)
-* 
 
 ## Package Manager
 
