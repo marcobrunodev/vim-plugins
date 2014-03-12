@@ -4,8 +4,8 @@ List of plugins for Vim.
 
 ## Table of Contents
 
-* [Package Manager](#packagemanager)
-* [Plus Manager](#plusmanager)
+* [Package Manager](#package-manager)
+* [Plus Manager](#plus-manager)
 * [HTML/HTML5](#htmlhtml5)
 * [CSS/CSS3](#csscss3)
 * [JavaScript](#javascript)
@@ -15,10 +15,11 @@ List of plugins for Vim.
 * [Pathogen.vim](https://github.com/tpope/vim-pathogen)
 * [Vundle.vim](https://github.com/gmarik/Vundle.vim)
 
-## Plus Language
+## Plus Manager
 
 * [NERDTree.vim](https://github.com/scrooloose/nerdtree)
 * [SuperTab.vim](https://github.com/ervandew/supertab)
+* [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace) **Amazing!**
 
 ## HTML/HTML5
 
