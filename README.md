@@ -9,6 +9,7 @@ List of plugins for Vim.
 * [HTML/HTML5](#htmlhtml5)
 * [CSS/CSS3](#csscss3)
 * [JavaScript](#javascript)
+* [NodeJS](#nodejs)
 
 ## Package Manager
 
@@ -36,3 +37,7 @@ List of plugins for Vim.
 
 * [JSHint.vim](https://github.com/hallettj/jslint.vim)
 * [JSBeautify.vim](https://github.com/maksimr/vim-jsbeautify)
+
+## NodeJS
+
+* [Vim-HandleBars](https://github.com/nono/vim-handlebars)
