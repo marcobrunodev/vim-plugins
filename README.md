@@ -18,9 +18,10 @@ List of plugins for Vim.
 
 ## Plus Manager
 
-* [NERDTree.vim](https://github.com/scrooloose/nerdtree)
-* [SuperTab.vim](https://github.com/ervandew/supertab)
+* [NERDTree.vim](https://github.com/scrooloose/nerdtree) - _Tree explorer_
+* [SuperTab.vim](https://github.com/ervandew/supertab) - _Completions with TAB_
 * [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace) **Amazing!**
+* [delimitMate](https://github.com/Raimondi/delimitMate) - _Auto-completion for quotes, parens, brackets, etc._
 
 ## HTML/HTML5
 
