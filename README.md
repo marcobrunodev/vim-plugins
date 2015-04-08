@@ -10,6 +10,7 @@ List of plugins for Vim.
 * [CSS/CSS3](#csscss3)
 * [JavaScript](#javascript)
 * [NodeJS](#nodejs)
+* [Markdown](#markdown)
 
 ## Package Manager
 
@@ -42,3 +43,7 @@ List of plugins for Vim.
 ## NodeJS
 
 * [Vim-HandleBars](https://github.com/nono/vim-handlebars)
+
+## Markdown
+
+* [Vim-Instant-Markdown](https://github.com/suan/vim-instant-markdown) - _Need **npm** to instal_
