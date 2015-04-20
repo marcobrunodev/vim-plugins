@@ -23,6 +23,7 @@ List of plugins for Vim.
 * [SuperTab.vim](https://github.com/ervandew/supertab) - _Completions with TAB_
 * [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace) **Amazing!**
 * [delimitMate](https://github.com/Raimondi/delimitMate) - _Auto-completion for quotes, parens, brackets, etc._
+* [VimMultipleCursors](https://github.com/terryma/multiple-cursors) **Very nice!**
 
 ## HTML/HTML5
 
