@@ -11,6 +11,7 @@ List of plugins for Vim.
 * [JavaScript](#javascript)
 * [NodeJS](#nodejs)
 * [Markdown](#markdown)
+* [Python](#python)
 
 ## Package Manager
 
@@ -48,3 +49,8 @@ List of plugins for Vim.
 ## Markdown
 
 * [Vim-Instant-Markdown](https://github.com/suan/vim-instant-markdown) - _Need **npm** to instal_
+
+## Python
+
+* [Python Jedi](https://github.com/davidhalter/jedi)
+* [Vim Python Jedi](https://github.com/davidhalter/jedi-vim) - A implementation of *Python Jedi* for vim
