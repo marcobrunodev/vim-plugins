@@ -10,6 +10,8 @@ List of plugins for Vim.
 * [CSS/CSS3](#csscss3)
 * [JavaScript](#javascript)
 * [NodeJS](#nodejs)
+* [Markdown](#markdown)
+* [Python](#python)
 
 ## Package Manager
 
@@ -22,6 +24,7 @@ List of plugins for Vim.
 * [SuperTab.vim](https://github.com/ervandew/supertab) - _Completions with TAB_
 * [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace) **Amazing!**
 * [delimitMate](https://github.com/Raimondi/delimitMate) - _Auto-completion for quotes, parens, brackets, etc._
+* [VimMultipleCursors](https://github.com/terryma/multiple-cursors) **Very nice!**
 
 ## HTML/HTML5
 
@@ -42,3 +45,12 @@ List of plugins for Vim.
 ## NodeJS
 
 * [Vim-HandleBars](https://github.com/nono/vim-handlebars)
+
+## Markdown
+
+* [Vim-Instant-Markdown](https://github.com/suan/vim-instant-markdown) - _Need **npm** to instal_
+
+## Python
+
+* [Python Jedi](https://github.com/davidhalter/jedi)
+* [Vim Python Jedi](https://github.com/davidhalter/jedi-vim) - A implementation of *Python Jedi* for vim
